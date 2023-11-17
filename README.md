@@ -6,8 +6,8 @@
 ## **no2_QtSerialPort**
 
 ## ** Lỗi gặp phải :**
-- error: **qt.qpa.plugin: Could not load the Qt platform plugin "wayland" in "" even though it was found.**
-- fix : Them bien moi truong ```QT_QPA_PLATFORM = xcb```
+  1.error: **qt.qpa.plugin: Could not load the Qt platform plugin "wayland" in "" even though it was found.**
+  =========>>>>>> fix : Them bien moi truong ```QT_QPA_PLATFORM = xcb```
   
 <sub><sup>*Đoạn chữ ở trên được làm đậm để làm nổi bật, màu đỏ không được hỗ trợ trực tiếp trong Markdown.*</sup></sub>
 
