@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "no11_Hienthihopthoai",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "no11_Hienthihopthoai::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-no11_Hienthihopthoai-Debug-6afd6ef9ba1a207fc295.json",
+					"name" : "no11_Hienthihopthoai",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "no11_Hienthihopthoai_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-no11_Hienthihopthoai_autogen-Debug-7db7ae5c889651353a76.json",
+					"name" : "no11_Hienthihopthoai_autogen",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/bien/ros1/software/Qt_C++/no11_Hienthihopthoai/build-no11_Hienthihopthoai-Desktop-Debug",
+		"source" : "/home/bien/ros1/software/Qt_C++/no11_Hienthihopthoai/no11_Hienthihopthoai"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

@@ -1,0 +1,8 @@
+/home/bien/ros1/software/Qt_C++/no5_xulichuoi/build-no5_xulichuoi-Desktop-Debug/CMakeFiles/install/strip.dir
+/home/bien/ros1/software/Qt_C++/no5_xulichuoi/build-no5_xulichuoi-Desktop-Debug/CMakeFiles/install/local.dir
+/home/bien/ros1/software/Qt_C++/no5_xulichuoi/build-no5_xulichuoi-Desktop-Debug/CMakeFiles/install.dir
+/home/bien/ros1/software/Qt_C++/no5_xulichuoi/build-no5_xulichuoi-Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/bien/ros1/software/Qt_C++/no5_xulichuoi/build-no5_xulichuoi-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/bien/ros1/software/Qt_C++/no5_xulichuoi/build-no5_xulichuoi-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/bien/ros1/software/Qt_C++/no5_xulichuoi/build-no5_xulichuoi-Desktop-Debug/CMakeFiles/no5_xulichuoi.dir
+/home/bien/ros1/software/Qt_C++/no5_xulichuoi/build-no5_xulichuoi-Desktop-Debug/CMakeFiles/no5_xulichuoi_autogen.dir

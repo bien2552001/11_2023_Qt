@@ -1,0 +1,19 @@
+{
+	"BUILD_DIR" : "/home/bien/ros1/software/Qt_C++/no9_QAction/build-no9_QAction-Desktop-Debug/no9_QAction_autogen",
+	"CMAKE_BINARY_DIR" : "/home/bien/ros1/software/Qt_C++/no9_QAction/build-no9_QAction-Desktop-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/bien/ros1/software/Qt_C++/no9_QAction/build-no9_QAction-Desktop-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/bien/ros1/software/Qt_C++/no9_QAction/no9_QAction",
+	"CMAKE_SOURCE_DIR" : "/home/bien/ros1/software/Qt_C++/no9_QAction/no9_QAction",
+	"INCLUDE_DIR" : "/home/bien/ros1/software/Qt_C++/no9_QAction/build-no9_QAction-Desktop-Debug/no9_QAction_autogen/include",
+	"INPUTS" : [],
+	"LOCK_FILE" : "/home/bien/ros1/software/Qt_C++/no9_QAction/build-no9_QAction-Desktop-Debug/CMakeFiles/no9_QAction_autogen.dir/AutoRcc_Resource_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "Resource" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_Resource.cpp",
+	"RCC_EXECUTABLE" : "/usr/lib/qt5/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/bien/ros1/software/Qt_C++/no9_QAction/build-no9_QAction-Desktop-Debug/CMakeFiles/no9_QAction_autogen.dir/AutoRcc_Resource_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/bien/ros1/software/Qt_C++/no9_QAction/no9_QAction/Resource.qrc",
+	"VERBOSITY" : 0
+}

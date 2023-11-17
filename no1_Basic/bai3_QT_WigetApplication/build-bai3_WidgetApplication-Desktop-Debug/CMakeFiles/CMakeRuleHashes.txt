@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+4f988b7d383ec6a980d104a19c8bf2f6 CMakeFiles/bai3_WidgetApplication_autogen

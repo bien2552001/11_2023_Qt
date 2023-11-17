@@ -1,0 +1,8 @@
+/home/bien/ros1/software/Qt_C++/no11_Hienthihopthoai/build-no11_Hienthihopthoai-Desktop-Debug/CMakeFiles/install/local.dir
+/home/bien/ros1/software/Qt_C++/no11_Hienthihopthoai/build-no11_Hienthihopthoai-Desktop-Debug/CMakeFiles/install.dir
+/home/bien/ros1/software/Qt_C++/no11_Hienthihopthoai/build-no11_Hienthihopthoai-Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/bien/ros1/software/Qt_C++/no11_Hienthihopthoai/build-no11_Hienthihopthoai-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/bien/ros1/software/Qt_C++/no11_Hienthihopthoai/build-no11_Hienthihopthoai-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/bien/ros1/software/Qt_C++/no11_Hienthihopthoai/build-no11_Hienthihopthoai-Desktop-Debug/CMakeFiles/install/strip.dir
+/home/bien/ros1/software/Qt_C++/no11_Hienthihopthoai/build-no11_Hienthihopthoai-Desktop-Debug/CMakeFiles/no11_Hienthihopthoai.dir
+/home/bien/ros1/software/Qt_C++/no11_Hienthihopthoai/build-no11_Hienthihopthoai-Desktop-Debug/CMakeFiles/no11_Hienthihopthoai_autogen.dir

@@ -1,0 +1,1 @@
+/usr/bin/g++  -DQT_QML_DEBUG -g   CMakeFiles/no10_QSetting.dir/no10_QSetting_autogen/mocs_compilation.cpp.o CMakeFiles/no10_QSetting.dir/main.cpp.o CMakeFiles/no10_QSetting.dir/mainwindow.cpp.o  -o no10_QSetting  /usr/lib/x86_64-linux-gnu/libQt5Widgets.so.5.12.8 /usr/lib/x86_64-linux-gnu/libQt5Gui.so.5.12.8 /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.12.8 

@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+ce59bc8a06f6c618e43a7400b4cc626f CMakeFiles/no11_Hienthihopthoai_autogen

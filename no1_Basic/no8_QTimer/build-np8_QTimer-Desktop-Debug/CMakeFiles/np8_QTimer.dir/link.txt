@@ -1,0 +1,1 @@
+/usr/bin/g++  -DQT_QML_DEBUG -g   CMakeFiles/np8_QTimer.dir/np8_QTimer_autogen/mocs_compilation.cpp.o CMakeFiles/np8_QTimer.dir/main.cpp.o CMakeFiles/np8_QTimer.dir/mainwindow.cpp.o  -o np8_QTimer  /usr/lib/x86_64-linux-gnu/libQt5Widgets.so.5.12.8 /usr/lib/x86_64-linux-gnu/libQt5Gui.so.5.12.8 /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.12.8 

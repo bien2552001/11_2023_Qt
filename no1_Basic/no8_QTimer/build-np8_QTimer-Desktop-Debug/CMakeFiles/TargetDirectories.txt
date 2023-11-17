@@ -1,0 +1,8 @@
+/home/bien/ros1/software/Qt_C++/np8_QTimer/build-np8_QTimer-Desktop-Debug/CMakeFiles/install/strip.dir
+/home/bien/ros1/software/Qt_C++/np8_QTimer/build-np8_QTimer-Desktop-Debug/CMakeFiles/install/local.dir
+/home/bien/ros1/software/Qt_C++/np8_QTimer/build-np8_QTimer-Desktop-Debug/CMakeFiles/install.dir
+/home/bien/ros1/software/Qt_C++/np8_QTimer/build-np8_QTimer-Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/bien/ros1/software/Qt_C++/np8_QTimer/build-np8_QTimer-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/bien/ros1/software/Qt_C++/np8_QTimer/build-np8_QTimer-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/bien/ros1/software/Qt_C++/np8_QTimer/build-np8_QTimer-Desktop-Debug/CMakeFiles/np8_QTimer.dir
+/home/bien/ros1/software/Qt_C++/np8_QTimer/build-np8_QTimer-Desktop-Debug/CMakeFiles/np8_QTimer_autogen.dir

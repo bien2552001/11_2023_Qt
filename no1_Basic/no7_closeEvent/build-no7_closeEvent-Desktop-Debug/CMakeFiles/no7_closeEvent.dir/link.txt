@@ -1,0 +1,1 @@
+/usr/bin/g++  -DQT_QML_DEBUG -g   CMakeFiles/no7_closeEvent.dir/no7_closeEvent_autogen/mocs_compilation.cpp.o CMakeFiles/no7_closeEvent.dir/main.cpp.o CMakeFiles/no7_closeEvent.dir/mainwindow.cpp.o  -o no7_closeEvent  /usr/lib/x86_64-linux-gnu/libQt5Widgets.so.5.12.8 /usr/lib/x86_64-linux-gnu/libQt5Gui.so.5.12.8 /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.12.8 

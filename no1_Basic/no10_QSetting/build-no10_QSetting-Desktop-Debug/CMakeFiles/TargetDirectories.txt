@@ -1,0 +1,8 @@
+/home/bien/ros1/software/Qt_C++/no10_QSetting/build-no10_QSetting-Desktop-Debug/CMakeFiles/install/strip.dir
+/home/bien/ros1/software/Qt_C++/no10_QSetting/build-no10_QSetting-Desktop-Debug/CMakeFiles/install/local.dir
+/home/bien/ros1/software/Qt_C++/no10_QSetting/build-no10_QSetting-Desktop-Debug/CMakeFiles/install.dir
+/home/bien/ros1/software/Qt_C++/no10_QSetting/build-no10_QSetting-Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/bien/ros1/software/Qt_C++/no10_QSetting/build-no10_QSetting-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/bien/ros1/software/Qt_C++/no10_QSetting/build-no10_QSetting-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/bien/ros1/software/Qt_C++/no10_QSetting/build-no10_QSetting-Desktop-Debug/CMakeFiles/no10_QSetting.dir
+/home/bien/ros1/software/Qt_C++/no10_QSetting/build-no10_QSetting-Desktop-Debug/CMakeFiles/no10_QSetting_autogen.dir

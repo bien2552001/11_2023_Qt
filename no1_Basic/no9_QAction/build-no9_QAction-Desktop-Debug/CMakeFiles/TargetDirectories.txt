@@ -1,0 +1,8 @@
+/home/bien/ros1/software/Qt_C++/no9_QAction/build-no9_QAction-Desktop-Debug/CMakeFiles/install/local.dir
+/home/bien/ros1/software/Qt_C++/no9_QAction/build-no9_QAction-Desktop-Debug/CMakeFiles/install.dir
+/home/bien/ros1/software/Qt_C++/no9_QAction/build-no9_QAction-Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/bien/ros1/software/Qt_C++/no9_QAction/build-no9_QAction-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/bien/ros1/software/Qt_C++/no9_QAction/build-no9_QAction-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/bien/ros1/software/Qt_C++/no9_QAction/build-no9_QAction-Desktop-Debug/CMakeFiles/install/strip.dir
+/home/bien/ros1/software/Qt_C++/no9_QAction/build-no9_QAction-Desktop-Debug/CMakeFiles/no9_QAction.dir
+/home/bien/ros1/software/Qt_C++/no9_QAction/build-no9_QAction-Desktop-Debug/CMakeFiles/no9_QAction_autogen.dir

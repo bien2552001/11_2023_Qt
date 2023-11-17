@@ -1,0 +1,8 @@
+/home/bien/ros1/software/Qt_C++/bai3_QT_WigetApplication/build-bai3_WidgetApplication-Desktop-Debug/CMakeFiles/install/local.dir
+/home/bien/ros1/software/Qt_C++/bai3_QT_WigetApplication/build-bai3_WidgetApplication-Desktop-Debug/CMakeFiles/install.dir
+/home/bien/ros1/software/Qt_C++/bai3_QT_WigetApplication/build-bai3_WidgetApplication-Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/bien/ros1/software/Qt_C++/bai3_QT_WigetApplication/build-bai3_WidgetApplication-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/bien/ros1/software/Qt_C++/bai3_QT_WigetApplication/build-bai3_WidgetApplication-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/bien/ros1/software/Qt_C++/bai3_QT_WigetApplication/build-bai3_WidgetApplication-Desktop-Debug/CMakeFiles/install/strip.dir
+/home/bien/ros1/software/Qt_C++/bai3_QT_WigetApplication/build-bai3_WidgetApplication-Desktop-Debug/CMakeFiles/bai3_WidgetApplication.dir
+/home/bien/ros1/software/Qt_C++/bai3_QT_WigetApplication/build-bai3_WidgetApplication-Desktop-Debug/CMakeFiles/bai3_WidgetApplication_autogen.dir

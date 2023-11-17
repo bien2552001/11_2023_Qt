@@ -1,0 +1,1 @@
+/usr/bin/g++  -DQT_QML_DEBUG -g   CMakeFiles/no6_QMessageBox.dir/no6_QMessageBox_autogen/mocs_compilation.cpp.o CMakeFiles/no6_QMessageBox.dir/main.cpp.o CMakeFiles/no6_QMessageBox.dir/mainwindow.cpp.o  -o no6_QMessageBox  /usr/lib/x86_64-linux-gnu/libQt5Widgets.so.5.12.8 /usr/lib/x86_64-linux-gnu/libQt5Gui.so.5.12.8 /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.12.8 

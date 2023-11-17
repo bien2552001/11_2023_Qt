@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+193cbdaebd6d0f6bd88f24fb132b7eed CMakeFiles/no10_QSetting_autogen

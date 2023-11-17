@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "no4_Signal_and_Slot",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "no4_Signal_and_Slot::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-no4_Signal_and_Slot-Debug-2b1fcdc244f971b7f710.json",
+					"name" : "no4_Signal_and_Slot",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "no4_Signal_and_Slot_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-no4_Signal_and_Slot_autogen-Debug-23f2af687b26db3a343a.json",
+					"name" : "no4_Signal_and_Slot_autogen",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/bien/ros1/software/Qt_C++/no4_Signal_and_Slot/build-no4_Signal_and_Slot-Desktop-Debug",
+		"source" : "/home/bien/ros1/software/Qt_C++/no4_Signal_and_Slot/no4_Signal_and_Slot"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}
