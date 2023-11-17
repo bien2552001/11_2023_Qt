@@ -12,9 +12,9 @@
 
 > Lỗi 2
 >>- _error: --->>> Project ERROR: Unknown module(s) in QT: serialport_
->>- _check package_: $ **find /usr/include /usr/local/include -name QSerialPort** 
+>>- _check package_: **```$ find /usr/include /usr/local/include -name QSerialPort```**
 >>- _fix : Cài thư viện_
->>>- $ **sudo apt-get install libqt5serialport5**
->>>- $ **sudo apt-get install libqt5serialport5-dev**
+>>>- **```$ sudo apt-get install libqt5serialport5```**
+>>>- **```$ sudo apt-get install libqt5serialport5-dev```**
 
  
