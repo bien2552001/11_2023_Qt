@@ -16,4 +16,4 @@
 <span style="color:red">qt.qpa.plugin: Could not load the Qt platform plugin "wayland" in "" even though it was found.</span>
 
 
-The text color is <span style="color:red">red</span>.
+The background color is `#ffffff` for light mode and `#000000` for dark mode.
