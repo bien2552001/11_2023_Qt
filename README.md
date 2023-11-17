@@ -8,7 +8,7 @@
 ## ** Lỗi gặp phải :**
 
 - _error: --->>> qt.qpa.plugin: Could not load the Qt platform plugin "wayland" in "" even though it was found._
-- _fix_ : Thêm biến môi trường  ```QT_QPA_PLATFORM = xcb```
+- _fix_ : Thêm biến môi trường  ```**QT_QPA_PLATFORM = xcb**```
 
 <sub><sup>*Đoạn chữ ở trên được làm đậm để làm nổi bật, màu đỏ không được hỗ trợ trực tiếp trong Markdown.*</sup></sub>
 
