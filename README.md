@@ -4,3 +4,6 @@
 
 
 **no2_QtSerialPort**
+
+
+** Fix lỗi: **
