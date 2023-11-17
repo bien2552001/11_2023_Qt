@@ -10,6 +10,9 @@
 >>- _error: --->>> qt.qpa.plugin: Could not load the Qt platform plugin "wayland" in "" even though it was found._
 >>- _fix_ : Thêm biến môi trường  **```QT_QPA_PLATFORM = xcb```**
 
+> Lỗi 1
+>>- _error: --->>> qt.qpa.plugin: Could not load the Qt platform plugin "wayland" in "" even though it was found._
+>>- _fix_ : Thêm biến môi trường  **```QT_QPA_PLATFORM = xcb```**
 > Lỗi 2
 >>-_error_: Project ERROR: Unknown module(s) in QT: serialport
 >>-_fix_ : 
