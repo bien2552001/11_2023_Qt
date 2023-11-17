@@ -7,9 +7,9 @@
 
 ## ** Lỗi gặp phải :**
 > Lỗi 1
-- _error: --->>> qt.qpa.plugin: Could not load the Qt platform plugin "wayland" in "" even though it was found._
-- _fix_ : Thêm biến môi trường  **```QT_QPA_PLATFORM = xcb```**
-
+>>- _error: --->>> qt.qpa.plugin: Could not load the Qt platform plugin "wayland" in "" even though it was found._
+>>- _fix_ : Thêm biến môi trường  **```QT_QPA_PLATFORM = xcb```**
+> Lỗi 2
 
     - <span style="color:red">qt.qpa.plugin: Could not load the Qt platform plugin "wayland" in "" even though it was found.</span>
 
