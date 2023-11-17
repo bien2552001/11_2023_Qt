@@ -14,3 +14,6 @@
 
 
 <span style="color:red">qt.qpa.plugin: Could not load the Qt platform plugin "wayland" in "" even though it was found.</span>
+- sdfdsf
+-   sdsdsds
+-     dsfdsfds
