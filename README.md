@@ -17,3 +17,24 @@
 
 
     - The background color is `#ffffff` for light mode and `#000000` for dark mode.
+
+
+```js
+console.log('javascript')
+```
+
+```python
+print('python')
+```
+
+```java
+System.out.println('java')
+```
+   
+```json
+{
+  "firstName": "A",
+  "lastName": "B
+  "age": 18
+}
+```
