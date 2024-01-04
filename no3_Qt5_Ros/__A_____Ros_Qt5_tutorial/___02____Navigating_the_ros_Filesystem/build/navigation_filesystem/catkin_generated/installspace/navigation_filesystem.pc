@@ -1,0 +1,8 @@
+prefix=/home/bien/ros1/software/11_2023_Qt/no3_Qt5_Ros/__A_____Ros_Qt5_tutorial/___02____Navigating_the_ros_Filesystem/install
+
+Name: navigation_filesystem
+Description: Description of navigation_filesystem
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

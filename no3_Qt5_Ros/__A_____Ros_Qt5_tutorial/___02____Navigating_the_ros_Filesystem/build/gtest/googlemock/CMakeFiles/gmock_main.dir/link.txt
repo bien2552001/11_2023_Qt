@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g  -shared -Wl,-soname,libgmock_maind.so -o ../lib/libgmock_maind.so CMakeFiles/gmock_main.dir/src/gmock_main.cc.o  -Wl,-rpath,/home/bien/ros1/software/11_2023_Qt/no3_Qt5_Ros/__A_____Ros_Qt5_tutorial/___02____Navigating_the_ros_Filesystem/build/gtest/lib ../lib/libgmockd.so ../lib/libgtestd.so -lpthread 
